@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gcc -Wall -Werror -o app.exe nanosleep_tester.c -lrt -lm
+
